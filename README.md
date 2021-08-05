@@ -8,7 +8,8 @@
 
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play table tennis and swimming
-- <a href="mailto:contact@daniels-roth-stan.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Stan%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+
+<img align="right" height="300px" alt="GIF" src="https://www.linkpicture.com/q/Screenshot_2021-06-19_at_10.08.13_AM-removebg-preview.png" padding="5px" />
 <br>
 
 <hr>
