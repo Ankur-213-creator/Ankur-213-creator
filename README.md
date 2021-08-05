@@ -8,6 +8,7 @@
 
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play table tennis and swimming
+- <a href="ttps://www.facebook.com/profile.php?id=100004805536688"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a>
 
 <br>
 
