@@ -50,4 +50,4 @@
 <hr>
 
 <h4 align="center"> HAPPY CODING  </h4>
-<a href="https://media.tenor.com/images/0d576d9e28332aacc2e18c09d7e5f520/tenor.gif"></a>
+<a href="https://camo.githubusercontent.com/247e136bbbb5015042d384c1fe1c1ac854bd25c0d93870e6758c77a200115592/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934616b394b6932475a43624a78416e4a442f67697068792e676966"></a>
