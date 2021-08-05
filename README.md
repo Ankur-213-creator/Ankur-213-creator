@@ -3,6 +3,12 @@
 
 ### Hello developers 👋
 
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on Github
+
+- 👯 I’m looking to collaborate with other developers.
+- ⚡ Fun fact: I love to play table tennis and swimming
+
 <br>
 
 <hr>
