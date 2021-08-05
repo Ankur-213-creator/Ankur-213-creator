@@ -1,5 +1,6 @@
  <h1 align="center"><img alt="wave" src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="400" height="200">   </h1>
  <h1 align="center"> HEYOO!!! It's<b> Ankur</b></h1>
+ <img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/c7/e6/42/c7e64283cd631ebd281e23fc47d0316e.jpg" padding="5px" />" padding="5px" />
 
 ### Hello developers 👋
 
@@ -10,7 +11,7 @@
 - ⚡ Fun fact: I love to play table tennis and swimming
 
 
-<img align="right" height="300px" alt="GIF" src="https://i.pinimg.com/originals/c7/e6/42/c7e64283cd631ebd281e23fc47d0316e.jpg" padding="5px" />" padding="5px" />
+
 <br>
 
 <hr>
