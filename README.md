@@ -13,9 +13,7 @@
 <h1 align="center"> 📊 Stats: </h1>
 
 <p align="center">
-  <a href="https://github.com/Ankur-213-creator/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ankur-213-creator&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
-  </a>
+ 
   <a href="https://github.com/Ankur-213-creator/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur-213-creator&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
   </a>
