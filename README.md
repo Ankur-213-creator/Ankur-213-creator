@@ -1,4 +1,4 @@
- <img alt="wave" src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="200" height="300">!It's<b> Ankur</b>  </h1>
+ <h1 align="center"><img alt="wave" src="http://www.becauselearning.com/wp-content/uploads/2017/11/hello-world.gif" width="400" height="300"> It's<b> Ankur</b>  </h1>
 
 ### Hi there 👋
 
