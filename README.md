@@ -6,16 +6,23 @@
 
 
 
-Here are some ideas to get you started:
+<h1 align="center"> 📊 Stats: </h1>
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning  React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+  <a href="https://github.com/Ankur-213-creator/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=raklaptudirm&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raklaptudirm&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raklaptudirm&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@raklaptudirm/bf98f6a7-04b0-4a13-af33-8f1243fe0cfe.png" />
+  </a>
+</p>
 
 <h1 align="center"> Skills & Tools: </h1>
 
