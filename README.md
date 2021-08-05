@@ -25,7 +25,7 @@
 
 <h1 align="center"> Socials: </h1>
   <p align="center">
-    <a href="https://twitter.com/raklaptudirm">
+    <a href="#">
       <img src="https://img.shields.io/badge/twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white">
     </a>
  <a href="https://www.linkedin.com/in/ankur-kaushik-2397b4210/">
