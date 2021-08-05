@@ -2,47 +2,6 @@
  <h1 align="center"> HEYOO!!! It's<b> Ankur</b></h1>
 
 ### Hello developers 👋
-const user = {
-  user_name: "Rak Laptudirm",
-  my_age_no: 15,
-  _pronouns: [ "he", "him", "them", ],
-  fav_theme: [ "dark", "monokai", ],
-  fav_color: 0x0099ff,
-  
-  semicolon: false,
-  line_ends: "crlf",
-  codeStyle: "prettier",
-  variables: "camelCase",
-  
-  myhobbies: [ "programming", "cubing", "singing", "reading", "gaining knowledge", ],
-  knowledge: [ "Black Holes", "Algorithms", "Ecmascript", "Numbers", "Tic-Tac-Toe", ],
-  _projects: [ "Krypt", "mvcs", "better_read", "MKode", "3d-Engine", "Precise.js", ],  
-  languages: [ "Ecmascript", "Processing", "C++", "Java", "Go", "Rust", "Typescript",
-    "Python", "C", ],
-  myeditors: [ "Sublime Text", "VS Code", "vim", "neovim", ],
-  
-  thank_you: "Daniel Shiffman",
-  
-  learnNewLanguage: function () {
-    console.log("Hello, World!")
-  },
-  
-  hereIsYourFood: function (food) {
-    const good = [ "Indian Cottage Cheese", "Chicken", "Mixed Noodles", "Good Fish", 
-    "Prawn", ]
-    const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
-    
-    if (good.includes(food)) {
-      console.log("Chomp Chomp Gulp... Yum!")
-    } else if (acceptable.includes(food)) {
-      console.log("Chew Chew Gulp.")
-    } else {
-      console.log("No, thanks.")
-    }
-  },
-}
-```
-</h3>
 
 
 
