@@ -1,4 +1,4 @@
-<h1 align="center">Hola<img alt="wave" src="https://media1.tenor.com/images/ed06a57e1a9ac68bc80295b3e2859734/tenor.gif?itemid=13830351" width="50">!It's<b> Ankur</b>  </h1>
+<h1 align="center">Hola<img alt="wave" src="https://media1.tenor.com/images/ed06a57e1a9ac68bc80295b3e2859734/tenor.gif?itemid=13830351" width="50" height="50">!It's<b> Ankur</b>  </h1>
 
 ### Hi there 👋
 
