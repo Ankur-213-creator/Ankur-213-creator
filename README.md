@@ -25,9 +25,9 @@
 
 <p align="center">
  
-  <a href="https://www.cplusplus.com/doc/tutorial/">
+  
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  </a>
+ 
   <br>
   <a href="https://html.com/">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
