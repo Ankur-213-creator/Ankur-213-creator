@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Skills & Tools: </h1>
 
 <p align="center">
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white">
-  </a>
-  <a href="https://golang.org/">
-    <img src="https://img.shields.io/badge/golang-00ADD8?&style=for-the-badge&logo=go&logoColor=white">
-  </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/rust-000000?&style=for-the-badge&logo=rust&logoColor=white">
-  </a>
+ 
   <a href="https://www.cplusplus.com/doc/tutorial/">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
   </a>
