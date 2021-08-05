@@ -31,7 +31,7 @@
  <a href="https://www.linkedin.com/in/ankur-kaushik-2397b4210/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    
+    <a href="https://instagram.com/akash_sahu_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash_sahu_7" height="30" width="40" /></a>
     
     
   </p>
