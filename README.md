@@ -1,4 +1,4 @@
-<h1 align="center">Hola<img alt="wave" src="https://i.gifer.com/WNq.gif" width="35">!It's<b> Ankur</b>  </h1>
+<h1 align="center">Hola<img alt="wave" src="https://media0.giphy.com/media/UqGhQEXe4J4ghTTCEi/200w.gif" width="35">!It's<b> Ankur</b>  </h1>
 
 ### Hi there 👋
 
