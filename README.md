@@ -9,7 +9,8 @@
 - 👯 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love to play table tennis and swimming
 
-<img align="right" height="300px" alt="GIF" src="https://www.linkpicture.com/q/Screenshot_2021-06-19_at_10.08.13_AM-removebg-preview.png" padding="5px" />
+
+<img align="right" height="300px" alt="GIF" src="https://www.linkpicture.com/q/Screenshot_2021-06-19_at_10.08.13_AM-removebg-preview.png" padding="5px" />" padding="5px" />
 <br>
 
 <hr>
