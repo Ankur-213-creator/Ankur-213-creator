@@ -76,7 +76,7 @@
     </a>
     
     
-    <a href="https://www.linkedin.com/in/rak-laptudirm-09b444211/">
+    <a href="https://www.linkedin.com/in/ankur-kaushik-2397b4210/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
   </p>
